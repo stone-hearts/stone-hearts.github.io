@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Siege</title>
+  <title>Chtholly</title>
   
   
   <link href="https://github.com/stone-hearts/stone-hearts.github.io/atom.xml" rel="self"/>
   
   <link href="https://github.com/stone-hearts/stone-hearts.github.io/"/>
-  <updated>2020-12-29T13:36:02.281Z</updated>
+  <updated>2021-06-02T09:33:06.251Z</updated>
   <id>https://github.com/stone-hearts/stone-hearts.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>自控力</title>
+    <link href="https://github.com/stone-hearts/stone-hearts.github.io/2021/011155687.html"/>
+    <id>https://github.com/stone-hearts/stone-hearts.github.io/2021/011155687.html</id>
+    <published>2021-01-11T04:32:19.000Z</published>
+    <updated>2021-06-02T09:33:06.251Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;序章：&lt;br&gt;自知之明是自控的基础，认识到自己的意志力存在问题，则是自控的关键。&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="自控力" scheme="https://github.com/stone-hearts/stone-hearts.github.io/tags/%E8%87%AA%E6%8E%A7%E5%8A%9B/"/>
+    
+  </entry>
   
   <entry>
     <title>unity_shader_第二章</title>
@@ -28,6 +52,31 @@
     
     
     <category term="unity_shader" scheme="https://github.com/stone-hearts/stone-hearts.github.io/tags/unity-shader/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>个人大学经历以及对考研的意义的思考</title>
+    <link href="https://github.com/stone-hearts/stone-hearts.github.io/2020/122827866.html"/>
+    <id>https://github.com/stone-hearts/stone-hearts.github.io/2020/122827866.html</id>
+    <published>2020-12-28T14:13:45.000Z</published>
+    <updated>2020-12-29T13:34:49.151Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;考研之于对于有的人而言，或许是脖子上的缰绳，或许是悬挂在高空的达摩克里斯之剑，而我认为，考研因该是一个指环上环绕的风筝绳子。对于大部分人而言，考不上才是常态，而考上却是少有而幸运的事情。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;曾今，我也纠结于自己是否考研。自己未必是一个做学术的料子，因为</summary>
+        
+      
+    
+    
+    
+    
+    <category term="日常" scheme="https://github.com/stone-hearts/stone-hearts.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
